@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e3603306c874e69e",
+        "id": "fac77d742446c197",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The beginning.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The beginning.md"
+              }
             }
           }
         ]
@@ -120,8 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ff55baadb1bd8f9",
+  "active": "fac77d742446c197",
   "lastOpenFiles": [
-    "Untitled.md"
+    "The beginning.md"
   ]
 }
