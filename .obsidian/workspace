@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fac77d742446c197",
+        "id": "03bd0bb15fd91913",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fac77d742446c197",
+  "active": "03bd0bb15fd91913",
   "lastOpenFiles": [
+    "Sunrun $RUN.md",
     "The beginning.md"
   ]
 }
