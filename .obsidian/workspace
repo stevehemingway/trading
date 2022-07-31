@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "03bd0bb15fd91913",
+        "id": "a541d7f67ec4215b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta ($FB).md",
+            "file": "Short Stories.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta ($FB).md",
+                "file": "Short Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta ($FB).md",
+                "file": "Short Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta ($FB).md"
+                "file": "Short Stories.md"
               }
             }
           }
@@ -129,8 +129,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03bd0bb15fd91913",
+  "active": "a541d7f67ec4215b",
   "lastOpenFiles": [
+    "Miniso ($MNSO).md",
+    "Meta ($FB).md",
+    "Long Ideas.md",
+    "Ranpack ($PACK).md",
     "Sunrun $RUN.md",
     "The beginning.md"
   ]
