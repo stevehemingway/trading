@@ -11,6 +11,7 @@
           "state": {
             "file": "Meta ($FB).md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
