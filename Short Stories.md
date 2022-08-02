@@ -1,1 +1,2 @@
-[[Miniso ($MNSO)]]
+- [[Miniso ($MNSO)]]
+- [[Celsius ($CELH)]]

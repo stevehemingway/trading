@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Celsius ($CELH).md",
+            "file": "Nestlé ($NESN.SW).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celsius ($CELH).md",
+                "file": "Nestlé ($NESN.SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celsius ($CELH).md",
+                "file": "Nestlé ($NESN.SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celsius ($CELH).md"
+                "file": "Nestlé ($NESN.SW).md"
               }
             }
           }
@@ -129,44 +129,13 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "7e682dec7605f718",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3aab6bfec05928a1",
-        "type": "window",
-        "children": [
-          {
-            "id": "3409a5812c13e3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Celsius ($CELH).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 200,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3409a5812c13e3e4",
+  "active": "a541d7f67ec4215b",
   "lastOpenFiles": [
+    "Long Ideas.md",
     "Short Stories.md",
+    "Celsius ($CELH).md",
     "Miniso ($MNSO).md",
     "Meta ($FB).md",
-    "Long Ideas.md",
     "Ranpack ($PACK).md",
     "Sunrun $RUN.md",
     "The beginning.md"
